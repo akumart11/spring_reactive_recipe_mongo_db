@@ -1,3 +1,6 @@
+[![CircleCI](https://circleci.com/gh/akumart11/spring_reactive_recipe_mongo_db.svg?style=svg)](https://circleci.com/gh/akumart11/spring_reactive_recipe_mongo_db)
+
+[![codecov](https://codecov.io/gh/akumart11/spring_reactive_recipe_mongo_db/branch/master/graph/badge.svg)](https://codecov.io/gh/akumart11/spring_reactive_recipe_mongo_db)
 
 # spring5-Reactive-mongo-recipe-app
 Reactive Recipe Application Using MongoDB
